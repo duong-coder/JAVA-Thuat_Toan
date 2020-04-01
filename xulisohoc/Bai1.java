@@ -1,3 +1,5 @@
+package xulisohoc;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

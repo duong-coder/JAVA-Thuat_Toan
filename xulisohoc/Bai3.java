@@ -1,3 +1,5 @@
+package xulisohoc;
+
 public class Bai3 {
     public static  int maxFraction(int[] numerators, int[] denominators) {
         float[] resuilt = new float[numerators.length];

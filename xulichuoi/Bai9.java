@@ -1,4 +1,4 @@
-//Một trang web định nghĩa 1 mật khẩu được gọi là mạnh (strong) nếu đảm bảo các yếu tố sau:
+package xulichuoi;//Một trang web định nghĩa 1 mật khẩu được gọi là mạnh (strong) nếu đảm bảo các yếu tố sau:
 //
 //        Có độ dài tối thiểu là 6
 //        Chứa ít nhất 1 chữ số (1234567890)

@@ -1,4 +1,4 @@
-//Cho biết số trang sách của 1 quyển sách
+package xulisohoc;//Cho biết số trang sách của 1 quyển sách
 //
 //        Hãy tìm số lượng các chữ số dùng để đánh số trang của quyển sách đó
 //

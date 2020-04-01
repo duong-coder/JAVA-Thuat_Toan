@@ -1,3 +1,5 @@
+package xulisohoc;
+
 //Cho số tự nhiên n.
 //        Hãy tính số chữ số 0 tận cùng của n! (n! (hay còn gọi là n giai thừa) là tích các số tự nhiên liên tiếp từ 1 tới n)
 //

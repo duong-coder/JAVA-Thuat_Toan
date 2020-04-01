@@ -1,4 +1,4 @@
-//Một bài nâng cao từ bài kiểm tra số nguyên tố:
+package xulisohoc;//Một bài nâng cao từ bài kiểm tra số nguyên tố:
 //
 //        Cho số nguyên n, hãy tính tổng các số nguyên tố nhỏ hơn hoặc bằng n
 //

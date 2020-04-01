@@ -1,4 +1,4 @@
-/*GCPD (Greatest Common Prime Divisor) được định nghĩa là số nguyên tố lớn nhất
+package xulisohoc;/*GCPD (Greatest Common Prime Divisor) được định nghĩa là số nguyên tố lớn nhất
         là ước của các số nguyên dương cho trước. Nhiệm vụ của bạn là tìm GCPD
         của hai số nguyên a và b.
 

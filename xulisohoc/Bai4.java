@@ -1,4 +1,4 @@
-//
+package xulisohoc;//
 //Tìm chữ số khác không cuối cùng của n!(giai thừa)
 //
 //        Ví dụ:
