@@ -22,7 +22,7 @@
 
 package xulichuoi;
 
-public class Bai11XauPalindrome {
+public class Bai11CheckPalindrome {
     static boolean checkPalindrome(String inputString) {
         int n = inputString.length();
         String[] str = inputString.split("");

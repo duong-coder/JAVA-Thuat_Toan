@@ -18,7 +18,7 @@
 
 package xulichuoi;
 
-public class Bai12XoaKiTuTrang {
+public class Bai12FormatString {
     static String formatString(String input) {
         input = input.trim();
         String[] str1 = input.split("");

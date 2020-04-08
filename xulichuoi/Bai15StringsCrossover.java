@@ -13,7 +13,7 @@
 
 package xulichuoi;
 
-public class Bai15 {
+public class Bai15StringsCrossover {
     static int stringsCrossover(String[] inputArray, String result) {
         int length = 0;
         for(int i = 0; i<inputArray.length; i++){

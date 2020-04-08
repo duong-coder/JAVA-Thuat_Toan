@@ -26,7 +26,7 @@ package xulichuoi;
 
 import java.util.Arrays;
 
-public class Bai10 {
+public class Bai10AmendTheSentence {
     static String amendTheSentence(String s) {
         String[] kiTu = s.split("");
         String resuilt = "";

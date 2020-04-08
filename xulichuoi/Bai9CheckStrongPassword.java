@@ -29,7 +29,7 @@ import java.util.Arrays;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Bai9 {
+public class Bai9CheckStrongPassword {
     static boolean checkStrongPassword(String password) {
         if((password.length() < 6)){
             return false;

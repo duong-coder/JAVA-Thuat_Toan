@@ -23,7 +23,7 @@ package xulichuoi;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class Bai14 {
+public class Bai14TruncateString {
     static String truncateString(String s) {
         ArrayList<String> str = new ArrayList<String>();
         for (int i = 0; i < s.length(); i++) {

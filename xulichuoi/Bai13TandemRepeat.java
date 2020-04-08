@@ -21,7 +21,7 @@
 
 package xulichuoi;
 
-public class Bai13 {
+public class Bai13TandemRepeat {
     static boolean isTandemRepeat(String inputString) {
         if(inputString.length() % 2 != 0){
             return false;

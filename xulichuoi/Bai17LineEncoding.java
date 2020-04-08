@@ -23,7 +23,7 @@
 
 package xulichuoi;
 
-public class Bai17 {
+public class Bai17LineEncoding {
     static String lineEncoding(String s) {
         String[] strArray = s.split("");
         String[] filStrings = new String[100];

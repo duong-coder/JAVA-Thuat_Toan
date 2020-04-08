@@ -32,7 +32,7 @@ package xulichuoi;
 
 import javax.swing.*;
 
-public class Bai16 {
+public class Bai16QuestionCorrection {
     static String questionCorrection(String s) {
         s = (s.trim()).toLowerCase();
         String resuilt = "";
