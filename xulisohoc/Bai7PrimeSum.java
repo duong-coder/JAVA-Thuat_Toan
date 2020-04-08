@@ -19,7 +19,7 @@ package xulisohoc;//Một bài nâng cao từ bài kiểm tra số nguyên tố:
 //        Kiểm tra và tính tổng các số nguyên tố từ 1 tới n có thể tốn nhiều thời gian
 //        Để tăng tốc tìm các số nguyên tố, có thể sử dụng sàng Eratosthenes
 
-public class Bai7 {
+public class Bai7PrimeSum {
     static int primeSum(int n){
         boolean[] prime = new boolean[n+2];
         for(int i = 2; i <= n; i++){

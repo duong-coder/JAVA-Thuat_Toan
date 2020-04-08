@@ -16,7 +16,7 @@ package xulisohoc;//
 //        [output] integer
 //        Chữ số cuối cùng khác 0 của n!
 
-public class Bai4 {
+public class Bai4LastDigitDiffZero {
     public static int lastDigitDiffZero(int n) {
         long factorial = 1;
         for(int i = n; i >=2; i--){

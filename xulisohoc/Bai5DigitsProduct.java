@@ -19,7 +19,7 @@ import java.util.Comparator;
 //        Điều kiện:
 //        0 ≤ product ≤ 600.
 //        [Đầu ra] integer
-public class Bai5 {
+public class Bai5DigitsProduct {
     static int digitsProduct(int product) {
         if(product==0){return  10;}
         else if(product > 0 && product < 10){

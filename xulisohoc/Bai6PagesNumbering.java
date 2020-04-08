@@ -25,7 +25,7 @@ package xulisohoc;//Cho biết số trang sách của 1 quyển sách
 //        Vậy thì các số từ 1 đến x - 1 chữ số sẽ xuất hiện đủ. Riêng các số có x chữ số sẽ chỉ xuất hiện từ 10x - 1 đến n
 //        Cộng tổng số lượng số nhân số chữ số tương ứng, ta sẽ có kết quả cần tìm
 
-public class Bai6 {
+public class Bai6PagesNumbering {
     static int pagesNumbering(int n) {
         String numbers = n + "";
         int soChuSo =  numbers.length();

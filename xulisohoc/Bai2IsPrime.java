@@ -9,7 +9,7 @@ package xulisohoc;/*GCPD (Greatest Common Prime Divisor) được định nghĩa
 
 import java.util.ArrayList;
 
-public class Bai2 {
+public class Bai2IsPrime {
     public static int UCLN(int a, int b){
         int temp;
         while (b != 0){

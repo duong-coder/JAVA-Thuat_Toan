@@ -18,7 +18,7 @@ package xulisohoc;
 //        Chú ý n rất lớn nếu các bạn dùng thuật toán duyệt từ 1 tới n chắc chắn ko chạy đc trong thời gian cho phép
 //        Số chữ số 0 tận cùng có thể hiểu bằng số lần chia hết cho 10 của n!
 //        Vì 10 = 2*5 (số lần chia hết cho 10 tính bằng số lần chia hết cho 2 và cho 5). Hãy dùng công thức toán học + vòng lặp đơn giản để giải quyết việc này
-public class Bai8 {
+public class Bai8NumberZeroDigits {
     static long numberZeroDigits(long n) {
         long resuilt = 0;
         long number = n;
